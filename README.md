@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Odoo+Developer;ERP+Solutions+Architect;AI+%26+Automation+Specialist;7%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Odoo+Developer;ERP+Solutions+Architect;AI+%26+Automation+Specialist;7%2B+Years+of+Experience" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me

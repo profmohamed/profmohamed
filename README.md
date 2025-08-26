@@ -130,15 +130,14 @@ class OdooDeveloper:
 ### 💡 "Transforming businesses through intelligent ERP solutions and cutting-edge automation"
 
 ⭐ **Available for freelance projects and consulting opportunities!**
-
-<img src="https://komarev.com/ghpvc/?username=profmohamed&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=profmohamed&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🏅 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=profmohamed&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies" />
 </div>
 
 ---
